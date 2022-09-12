@@ -31,3 +31,10 @@ jksjksjsksjskksjsjsjsjksjksjsksjskksjsjsjsjksjksjsksjskksjsjsjsjksjksjsksjskksjs
   [link](http://www.google.com "Titulo opcional")
 
 ![messi](https://github.com/MarcJrTMT/RepositorioDePrueba/blob/main/messi.jpg "Imagen de messi")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|------|:------:|------:|
+|Nombre | Apellido| Apellido 2|
+|Nombre2| Apellido 3 | Apellido 4 |
+|Col 3 | esta alineada| derecha |
+|col 2 | esta alineada | centro |
